@@ -9,3 +9,6 @@ I'm going to solve problems by the following programming languages: __(Python,Ja
 - Diagonal Difference
 
 ## JavaScript
+
+- Mini-Max Sum
+
