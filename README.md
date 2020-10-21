@@ -7,8 +7,9 @@ I'm going to solve problems by the following programming languages: __(Python,Ja
 ## Python
 
 - Diagonal Difference
+- Birthday Cake Candles
 
 ## JavaScript
 
 - Mini-Max Sum
-
+- Birthday Cake Candles
