@@ -6,7 +6,7 @@ I'm going to solve problems by the following programming languages: __(Python,Ja
 
 ## Python
 
-- Diagonal Difference
+**Episode 1: Diagonal Difference** [Watch On YouTube](https://youtu.be/NnQir6a1X_k)
 - Birthday Cake Candles
 
 ## JavaScript
