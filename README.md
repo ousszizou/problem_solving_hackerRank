@@ -12,4 +12,4 @@ I'm going to solve problems by the following programming languages: __(Python,Ja
 ## JavaScript
 
 - **Episode 2: Mini-Max Sum** [Watch On YouTube](https://youtu.be/XxGpxedENTg)
-- Birthday Cake Candles
+- **Episode 3: Birthday Cake Candles** [Watch On YouTube](https://www.youtube.com/watch?v=IcQj7_FPRGg)
