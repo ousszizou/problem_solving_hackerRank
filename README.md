@@ -13,3 +13,4 @@ I'm going to solve problems by the following programming languages: __(Python,Ja
 
 - Mini-Max Sum
 - Birthday Cake Candles
+- Number Line Jumbs
