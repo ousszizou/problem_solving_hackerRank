@@ -8,6 +8,7 @@ I'm going to solve problems by the following programming languages: __(Python,Ja
 
 - Diagonal Difference
 - Birthday Cake Candles
+- Grading Students
 
 ## JavaScript
 
